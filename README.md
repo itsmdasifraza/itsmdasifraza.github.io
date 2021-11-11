@@ -6,5 +6,5 @@ Go to index.html file and make changes on &#60; href base="https://xyz.github.io
 <br/><br/>
 Go to 404.html file and make changes on &#60; href base="https://xyz.github.io/" &#62; tag. [Note replace xyz with your username]
   
-## Redirect Settings
+## Redirect URL Settings
 Go to script.js and update your host name.
