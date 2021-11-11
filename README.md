@@ -2,6 +2,7 @@
 
 ## Username Settings
 Go to index.html file and make changes on <href base="https://xyz.github.io/"> tag. [Note replace xyz with your username]
+<br/>
 Go to 404.html file and make changes on <href base="https://xyz.github.io/"> tag. [Note replace xyz with your username]
   
 ## Redirect Settings
