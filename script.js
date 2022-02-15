@@ -1,4 +1,4 @@
 let path = window.location.pathname;
 let protocol = "https";
-let host = "www.mdasifraza.com";
+let host = "mdasifraza-ca96a.web.app";
 window.location.href = `${protocol}://${host}${path}`;
